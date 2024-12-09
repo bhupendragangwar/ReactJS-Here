@@ -6,7 +6,6 @@
 4. Component Name must start with an Capital letter.
 
 SYNTAX:
-
     function App(){
         return (
             <h1> </h1>
