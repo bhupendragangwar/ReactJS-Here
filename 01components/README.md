@@ -4,7 +4,6 @@
 2. Components is nothing , it is section of your entire webpage, created a component by created a function that return a JSX code, similar to html, but not html code.
 3. A piece of code that can reuse(independent).
 4. Component Name must start with an Capital letter.
-<!-- 
 
 SYNTAX:
 
@@ -14,5 +13,3 @@ SYNTAX:
             <div> </div>
         )
     }
-
- -->
