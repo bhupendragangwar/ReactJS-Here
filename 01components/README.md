@@ -7,15 +7,16 @@
 
 SYNTAX:
 
-    function App(){
+    function Component_Name(){
         return (
             <h1> </h1>
             <div> </div>
         )
     }
+    export default Components_Name
 
 
 5. Mainly Two types of Component
-    1. Functional Component
-    2. class Component
+    1. Functional Component: These are plain JavaScript functions that return React elements (usually JSX).No <strong>this</strong> keyword is used.
+    2. class Component: These are ES6 classes that extend React.Component.Can maintain internal state and lifecycle methods.Use <strong>this</strong> to refer to the component instance.
 
