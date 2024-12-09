@@ -13,3 +13,9 @@ SYNTAX:
             <div> </div>
         )
     }
+
+
+5. Mainly Two types of Component
+    1. Functional Component
+    2. class Component
+
