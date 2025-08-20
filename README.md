@@ -1,7 +1,7 @@
 # ReactJS-Here
 A dedicated repository for learning and practicing ReactJS concepts — from fundamentals to advanced topics. Includes hands-on projects, code examples, and exercises to build production-ready React applications.
 
-# ReactJS Learning Repository
+## ReactJS Learning Repository
 
 A dedicated repository for learning and mastering **ReactJS**, covering concepts from **beginner to advanced** with hands-on examples, mini-projects, and best practices.
 
